@@ -1,0 +1,47 @@
+commit aa1e5ad9a265fb48040ad00f877f24cd5705f522
+Author: Yegendri Zarate Perea <yegendri_zarate1@hotmail.com>
+Date:   Mon May 21 20:50:08 2018 -0500
+
+    archivo Jose
+
+commit 05a3db7acb438775090a33948f61f823cf9c6bd4
+Author: Yegendri Zarate Perea <yegendri_zarate1@hotmail.com>
+Date:   Mon May 21 20:48:56 2018 -0500
+
+    ArchivoZ
+
+commit 0570b650313d912da0eb41ba4b3fcb21f30c54b8
+Author: Yegendri Zarate Perea <yegendri_zarate1@hotmail.com>
+Date:   Mon May 21 20:32:57 2018 -0500
+
+    Agregado Archivo Yegendri
+
+commit fe95eb2f76e89f80011afce8ae3be64b54f896b8
+Author: Yegendri Zarate Perea <yegendri_zarate1@hotmail.com>
+Date:   Mon May 21 20:31:09 2018 -0500
+
+    Agregado Archivo Especial
+
+commit 8a7ec051e035238a99345fc433eb45cce0f7ef8b
+Author: Yegendri Zarate Perea <yegendri_zarate1@hotmail.com>
+Date:   Mon May 21 20:26:23 2018 -0500
+
+    Agregar Pruebas
+
+commit 4b028d47321b8a5aa235a6c5b5bb960aeb65bc97
+Author: Yegendri Zarate Perea <yegendri_zarate1@hotmail.com>
+Date:   Mon May 21 20:13:42 2018 -0500
+
+    Afregado Archivo C
+
+commit 52018ac83c64919f35152c477df97281fd9625c4
+Author: Yegendri Zarate Perea <yegendri_zarate1@hotmail.com>
+Date:   Mon May 21 20:12:28 2018 -0500
+
+    Agregamos PruebaB
+
+commit 29c53619689075d6d3e986d740e2b3005bb5bd03
+Author: Yegendri Zarate Perea <yegendri_zarate1@hotmail.com>
+Date:   Mon May 21 19:53:17 2018 -0500
+
+    Commit Inicial
